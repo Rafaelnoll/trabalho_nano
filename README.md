@@ -6,3 +6,4 @@
 - Alan Marcelo Scheibler - 1130556
 - Stefano Augusto Mossi - 1131685
 - Rhayra Rodrigues Fiorentin - 1135147
+- Bruno Silveira Serena Benevenuto dos Santos - 1129601
